@@ -9,7 +9,7 @@
 npm install
 node main 1.00.12 "/Applications/yourapp/"  /yourapp/
 ```
-- the first argument is the nme of your output file  
+- the first argument is the name of your output file  
 - the second argument is the path to the folder to be scanned  
 - the third argument is the part of the path that you want to exclude from the result.  
 example:  
